@@ -1,6 +1,6 @@
 name: flutter_clean_architecture_generator
 description: A command-line tool for generating clean architecture folder structures and boilerplate code for Flutter applications with Riverpod and Freezed.
-version: 1.0.1
+version: 1.0.2
 
 # Repository URLs
 homepage: https://github.com/RamyBouchareb25/flutter-clean-architecture-generator
