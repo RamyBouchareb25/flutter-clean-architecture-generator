@@ -71,9 +71,7 @@ Continue with these options? (Y/n): y
 
 ## Generated Project Structure
 
-After running the generator, you'll get:
-
-3. **Run `flutter pub get`** to install the package.
+After running the generator, you'll get a complete feature structure as shown below.
 
 ## Using the Generator
 
@@ -81,7 +79,7 @@ You can use the generator from the command line. Here’s how to generate a clea
 
 1. **Run the generator**:
    ```bash
-   dart run flutter_clean_architecture_generator
+   flutter_clean_architecture_generator
    ```
 
 2. **Follow the prompts** to enter the feature name and select the options for generating models, repositories, providers, views, and README files.
@@ -114,6 +112,6 @@ lib/
 
 ## Contributing
 
-If you would like to contribute to the Flutter Clean Architecture Generator, please fork the repository and submit a pull request. For more details, check the main README file.
+If you would like to contribute to the Flutter Clean Architecture Generator, please fork the repository at https://github.com/RamyBouchareb25/flutter-clean-architecture-generator and submit a pull request. For more details, check the main README file.
 
 Happy coding! 🚀

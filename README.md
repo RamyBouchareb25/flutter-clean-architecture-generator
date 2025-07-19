@@ -145,4 +145,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🐛 Issues
 
-If you encounter any issues or have feature requests, please file them in the [issue tracker](https://github.com/yourusername/flutter_clean_architecture_generator/issues).
+If you encounter any issues or have feature requests, please file them in the [issue tracker](https://github.com/RamyBouchareb25/flutter-clean-architecture-generator/issues).
