@@ -1,0 +1,76 @@
+# Dart/Flutter related files
+.dart_tool/
+.packages
+pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Build artifacts
+build/
+**/build/
+
+# Generated files
+*.g.dart
+*.freezed.dart
+
+# Coverage
+coverage/
+
+# Test outputs
+test_output/
+*.lcov
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+
+# Node modules (if using any JS tools)
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Documentation build
+doc/api/
+
+# Android/iOS (if testing with Flutter apps)
+android/
+ios/
+linux/
+macos/
+web/
+windows/
+
+# Firebase
+.firebase/
+firebase-debug.log
+
+# Other
+*.iml
+.gradle/
+local.properties
